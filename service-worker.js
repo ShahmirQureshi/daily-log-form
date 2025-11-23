@@ -2,7 +2,7 @@ const CACHE_NAME = "logform-cache-v1";
 
 const urlsToCache = [
   "/index.html",
-  "/main.js",
+  "/script.js",
   "/style.css",
   "/fault_mapping.json",
   "/mappings.json",
@@ -35,3 +35,4 @@ self.addEventListener("fetch", event => {
     })
   );
 });
+
