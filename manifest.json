@@ -1,6 +1,7 @@
 {
   "name": "Daily Log Form",
   "short_name": "LogForm",
+  "description": "A simple app to fill daily log forms efficiently.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
