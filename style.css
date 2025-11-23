@@ -1,0 +1,235 @@
+/* ------------------- Body & Header ------------------- */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 10px;
+  background: #DAD7E8;
+}
+
+header {
+  background: #312C51;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 1.8em;
+  font-weight: bold;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+/* ------------------- Form ------------------- */
+form {
+  margin: 20px 0;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* ------------------- Columns ------------------- */
+.form-columns {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.column {
+  flex: 1 1 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* ------------------- Fields ------------------- */
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.field label {
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #312C51;
+  font-size: 14px;
+}
+
+.field input,
+.field select {
+  padding: 8px 10px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #48426D;
+  border-radius: 6px;
+  background: white;
+  color: #312C51;
+  font-size: 14px;
+}
+
+/* ------------------- Choices.js Searchable Dropdown ------------------- */
+.choices__inner {
+  border: 1px solid #48426D;
+  border-radius: 6px;
+  background: white;
+  min-height: 38px;
+}
+
+/* dropdown + search results scrollable */
+.choices__list--dropdown,
+.choices__list--dropdown .choices__list,
+.choices__list[role="listbox"] {
+  max-height: 260px !important;
+  overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch;
+  z-index: 9999;
+}
+
+/* wrap long text */
+.choices__list--dropdown .choices__item,
+.choices__list--dropdown .choices__item--choice {
+  white-space: normal !important;
+}
+
+.choices__item--choice {
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.choices__item--choice.is-highlighted {
+  background: #F0C383;
+  color: #312C51;
+}
+
+/* ------------------- Buttons ------------------- */
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px;
+  background: #48426D;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  flex: 1 1 100px;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #F0C383;
+  color: #312C51;
+}
+
+#status {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #312C51;
+}
+
+
+/* ------------------- Modal ------------------- */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 99;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.modal-header {
+  display: flex;
+  justify-content: flex-end; /* push button to right */
+  margin-bottom: 10px;       /* space between button and table */
+}
+
+
+.modal-content {
+  background-color: white;
+  margin: 5% auto;
+  padding: 15px;
+  border: 1px solid #48426D;
+  width: 95%;
+  max-height: 80%;
+  overflow-y: auto;
+  border-radius: 12px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.table-container {
+  max-height: 70vh; /* table scroll area */
+  overflow-y: auto;
+}
+
+#previewTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#previewTable th,
+#previewTable td {
+  border: 1px solid #48426D;
+  padding: 5px;
+  text-align: left;
+  color: #312C51;
+  font-size: 13px;
+}
+
+/* ------------------- Close Button ------------------- */
+#closePreview {
+  font-size: 16px;
+  font-weight: bold;
+  color: red;
+  background: white;
+  border: 1px solid red;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  width: fit-content;
+  transition: color 0.2s, transform 0.2s, background 0.2s;
+}
+
+#closePreview:hover {
+  color: white;
+  background: red;
+  transform: scale(1.05);
+}
+
+#confirmClear:hover {
+  background-color: red;
+  color: white; /* ensures text is readable */
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 900px) {
+  #closePreview {
+    font-size: 24px;
+    top: 10px;
+    right: 10px; /* keep it aligned with the edge */
+  }
+}
+
+@media (max-width: 600px) {
+  #closePreview {
+    font-size: 20px;
+    top: 10px;
+    right: 8px; /* small screens need smaller right spacing */
+  }
+}
+
+@media (max-width: 400px) {
+  #closePreview {
+    font-size: 18px;
+    top: 10px;
+    right: 5px;
+  }
+}

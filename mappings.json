@@ -1,0 +1,1432 @@
+{
+  "164D Line": {
+    "Door": {
+      "CO2": [
+        "CO2 3"
+      ],
+      "PLC Jig": [
+        "WFH",
+        "WFE LH",
+        "WFE RH",
+        "WRE RH",
+        "WRE LH"
+      ],
+      "Pneumatic Jig": [
+        "WHF",
+        "WEA RH",
+        "WEA LH",
+        "WFF RH",
+        "WFF LH",
+        "WRE/ WRG RH",
+        "WRE/ WRG LH"
+      ],
+      "Sealer Pump": [
+        "SP 01",
+        "SP 02"
+      ],
+      "Spot Welding System": [
+        "PSWS 57",
+        "PSWS 58",
+        "PSWS 59",
+        "PSWS 60",
+        "PSWS 61",
+        "PSWS 62",
+        "PSWS 63",
+        "PSWS 64",
+        "PSWS 65",
+        "PSWS 66",
+        "PSWS 67",
+        "PSWS 68"
+      ],
+      "Roller Hemming Robot": [
+        "Robot (2-1)",
+        "Robot (4-1)",
+        "Robot (3-1)",
+        "Robot (3-2)",
+        "Robot (3-3)",
+        "Robot (3-4)"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Main Body and UBA": {
+      "CO2": [
+        "CO2 4",
+        "CO2 5"
+      ],
+      "Hoist": [
+        "H 15",
+        "H 16"
+      ],
+      "Manual Jig": [
+        "MRA"
+      ],
+      "M-Tack": [
+        "M Tack"
+      ],
+      "Pneumatic Jig": [
+        "UBA"
+      ],
+      "Sealer Pump": [
+        "SP 4"
+      ],
+      "Spot Welding System": [
+        "PSWS 97",
+        "PSWS 98",
+        "PSWS 99",
+        "PSWS 100",
+        "PSWS 101",
+        "PSWS 102",
+        "PSWS 103",
+        "PSWS 104",
+        "PSWS 105",
+        "PSWS 106",
+        "PSWS 107",
+        "PSWS 108",
+        "PSWS 109",
+        "PSWS 110",
+        "PSWS 111",
+        "PSWS 112",
+        "PSWS 113",
+        "PSWS 114",
+        "PSWS 115",
+        "PSWS 116",
+        "PSWS 117",
+        "PSWS 118",
+        "PSWS 119",
+        "PSWS 120",
+        "PSWS 121",
+        "PSWS 122"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Side Member RH/ LH": {
+      "Hoist": [
+        "H 11",
+        "H 12",
+        "H 13",
+        "H 14"
+      ],
+      "PLC Jig": [
+        "SWC LH",
+        "SMA RH",
+        "SMA LH",
+        "SWC RH"
+      ],
+      "Pneumatic Jig": [
+        "SWA LH",
+        "SRB LH",
+        "SRA LH",
+        "SCA LH",
+        "STA LH",
+        "SOA LH",
+        "SOA RH",
+        "SCA RH",
+        "SWA RH",
+        "SRA RH"
+      ],
+      "Sealer Pump": [
+        "SP 3"
+      ],
+      "Spot Welding System": [
+        "PSWS 69",
+        "PSWS 70",
+        "PSWS 71",
+        "PSWS 72",
+        "PSWS 73",
+        "PSWS 74",
+        "PSWS 75",
+        "PSWS 76",
+        "PSWS 77",
+        "PSWS 78",
+        "PSWS 79",
+        "PSWS 80",
+        "PSWS 81",
+        "PSWS 82",
+        "PSWS 83",
+        "PSWS 84",
+        "PSWS 85",
+        "PSWS 86",
+        "PSWS 87",
+        "PSWS 88",
+        "PSWS 89",
+        "PSWS 90",
+        "PSWS 91",
+        "PSWS 92",
+        "PSWS 93",
+        "PSWS 94",
+        "PSWS 95",
+        "PSWS 96"
+      ],
+      "SSW": [
+        "SSW 5",
+        "SSW 6",
+        "SSW 7"
+      ],
+      "Stud Welder": [
+        "SW 5",
+        "SW 6"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Under Body": {
+      "CO2": [
+        "CO2# 1",
+        "CO2# 2"
+      ],
+      "Hoist": [
+        "Hoist 1",
+        "Hoist 2",
+        "Hoist 3",
+        "Hoist 4",
+        "Hoist 5",
+        "Hoist 6"
+      ],
+      "Manual Jig": [
+        "UFH RH",
+        "UFH LH",
+        "UFC-1"
+      ],
+      "PLC Jig": [
+        "UMB RH",
+        "UAB RH",
+        "EUEA",
+        "UMB LH",
+        "UFB RH",
+        "UFB LH"
+      ],
+      "Number Punching Machine": [
+        "Number Punching"
+      ],
+      "Pneumatic Jig": [
+        "UEA RH",
+        "UMA",
+        "UAB-A RH",
+        "UAA RH",
+        "UAC RH",
+        "UAD RH",
+        "URB/ URC",
+        "URA",
+        "UAA LH",
+        "UAE LH",
+        "UAB LH",
+        "UAB-A LH",
+        "UAD LH",
+        "UAC LH",
+        "UDB",
+        "UDC",
+        "UDA",
+        "UFD RH",
+        "UFF RH",
+        "UFA RH",
+        "UFF LH",
+        "UFD LH",
+        "UFC"
+      ],
+      "Spot Welding System": [
+        "PSWS # 1",
+        "PSWS # 2",
+        "PSWS # 3",
+        "PSWS # 4",
+        "PSWS # 5",
+        "PSWS # 6",
+        "PSWS # 7",
+        "PSWS # 8",
+        "PSWS # 9",
+        "PSWS # 10",
+        "PSWS # 11",
+        "PSWS # 12",
+        "PSWS # 13",
+        "PSWS # 14",
+        "PSWS # 15",
+        "PSWS # 16",
+        "PSWS # 17",
+        "PSWS # 18",
+        "PSWS # 19",
+        "PSWS # 20",
+        "PSWS # 21",
+        "PSWS # 22",
+        "PSWS # 23",
+        "PSWS # 24",
+        "PSWS # 25",
+        "PSWS # 26",
+        "PSWS # 27",
+        "PSWS # 28",
+        "PSWS # 29",
+        "PSWS # 30",
+        "PSWS # 31",
+        "PSWS # 32",
+        "PSWS # 33",
+        "PSWS # 34",
+        "PSWS # 35",
+        "PSWS # 36",
+        "PSWS # 37",
+        "PSWS # 38",
+        "PSWS # 39",
+        "PSWS # 40",
+        "PSWS # 41",
+        "PSWS # 42",
+        "PSWS # 43"
+      ],
+      "SSW": [
+        "SSW # 1",
+        "SSW # 2",
+        "SSW # 3",
+        "SSW # 4",
+        "SSW # 5",
+        "SSW # 6",
+        "SSW # 7"
+      ],
+      "Stud Welder": [
+        "SW 1",
+        "SW 2",
+        "SW 3"
+      ],
+      "Auto Stud": [
+        "Auto Stud"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Under Rear": {
+      "Hoist": [
+        "H 7",
+        "H 8",
+        "H 9",
+        "H 10"
+      ],
+      "Under Rear Robot": [
+        "Under Rear Robot (URT1-1)",
+        "Under Rear Robot (URT1-2)"
+      ],
+      "PLC Jig": [
+        "UUB",
+        "UUC",
+        "UUG LH",
+        "UUE",
+        "UUG RH"
+      ],
+      "Pneumatic Jig": [
+        "UUJ",
+        "UUF LH",
+        "UUF RH"
+      ],
+      "Spot Welding System": [
+        "PSWS 44",
+        "PSWS 45",
+        "PSWS 46",
+        "PSWS 47",
+        "PSWS 48",
+        "PSWS 49",
+        "PSWS 50",
+        "PSWS 51",
+        "PSWS 52",
+        "PSWS 53",
+        "PSWS 54",
+        "PSWS 55",
+        "PSWS 56"
+      ],
+      "SSW": [
+        "SSW 8"
+      ],
+      "Stud Welder": [
+        "SW 4"
+      ],
+      "Other": [
+        "Other"
+      ]
+    }
+  },
+  "Corolla": {
+    "Door Hemming Area": {
+      "Brazing Station": [
+        "Brazing Station # 1",
+        "Brazing Station # 2"
+      ],
+      "CO2": [
+        "Co2 # 9"
+      ],
+      "Enerpac": [
+        "WEA RH",
+        "WEA LH"
+      ],
+      "Hemming Machine": [
+        "Door Hemming LH",
+        "Door Hemming RH",
+        "Hood and Luggage"
+      ],
+      "Piercing Machine": [
+        "WRI",
+        "WLD"
+      ],
+      "Pneumatic Jig": [
+        "WFA RH",
+        "WFE RH",
+        "WFF RH",
+        "WFH RH",
+        "WFG RH",
+        "WRF RH",
+        "WRE RH",
+        "WRE LH",
+        "WRF LH",
+        "WRG LH",
+        "WFH LH",
+        "WFF LH",
+        "WFE LH",
+        "WFA LH",
+        "WLD",
+        "WEF",
+        "WHE",
+        "WLF",
+        "WLE"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 4",
+        "Sealer Pump # 5"
+      ],
+      "Spot Welding System": [
+        "PSWS 01",
+        "PSWS 02",
+        "PSWS 03",
+        "PSWS 04",
+        "PSWS 05",
+        "PSWS 06",
+        "PSWS 07",
+        "PSWS 08",
+        "PSWS 09",
+        "PSWS 10",
+        "PSWS 11",
+        "PSWS 12",
+        "PSWS 13",
+        "PSWS 14",
+        "PSWS 15",
+        "PSWS 16",
+        "PSWS 17",
+        "PSWS 18",
+        "PSWS 19",
+        "PSWS 20",
+        "PSWS 21"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Main Body": {
+      "PLC Jig": [
+        "MRA"
+      ],
+      "CO2": [
+        "CO2 # 6",
+        "CO2 # 7",
+        "CO2 # 8"
+      ],
+      "Hemming Machine": [
+        "MOON ROOF"
+      ],
+      "Hoist": [
+        "C 17",
+        "C 18",
+        "C 19"
+      ],
+      "Manual Jig": [
+        "MRA",
+        "MRB"
+      ],
+      "M-Tack": [
+        "M-TACK"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 3"
+      ],
+      "Spot Welding System": [
+        "PSWS 107A",
+        "PSWS 107B",
+        "PSWS 107",
+        "PSWS 108",
+        "PSWS 109A",
+        "PSWS 109B",
+        "PSWS 109",
+        "PSWS 110",
+        "PSWS 111",
+        "PSWS 112",
+        "PSWS 113",
+        "PSWS 114",
+        "PSWS 115",
+        "PSWS 116",
+        "PSWS 117",
+        "PSWS 118A",
+        "PSWS 118",
+        "PSWS 119",
+        "PSWS 120",
+        "PSWS 121",
+        "PSWS 122",
+        "PSWS 123",
+        "PSWS 124",
+        "PSWS 125",
+        "PSWS 126",
+        "PSWS 127",
+        "PSWS 128",
+        "PSWS 129",
+        "PSWS 130",
+        "PSWS 131",
+        "PSWS 132"
+      ],
+      "Scissor Lifter": [
+        "Scissor Lifter 1",
+        "Scissor Lifter 2"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Shell Body": {
+      "Brazing Station": [
+        "Brazing Station # 3"
+      ],
+      "Conveyor": [
+        "Shell body"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Side Member RH": {
+      "Hydraulic Punching Machine": [
+        "Enerpac"
+      ],
+      "PLC Jig": [
+        "SMC-1",
+        "SMB",
+        "SMC"
+      ],
+      "Spot Welding System": [
+        "PSWS 62",
+        "PSWS 63",
+        "PSWS 64",
+        "PSWS 65",
+        "PSWS 66A",
+        "PSWS 66",
+        "PSWS 67",
+        "PSWS 68",
+        "PSWS 69",
+        "PSWS 70",
+        "PSWS 71",
+        "PSWS 72",
+        "PSWS 73",
+        "PSWS 74",
+        "PSWS 75",
+        "PSWS 76",
+        "PSWS 77",
+        "PSWS 78",
+        "PSWS 79",
+        "PSWS 80"
+      ],
+      "CO2": [
+        "CO2 # 5"
+      ],
+      "Hoist": [
+        "C 14",
+        "C 15",
+        "C 16"
+      ],
+      "Piercing Machine": [
+        "SWA-1",
+        "SWB RH"
+      ],
+      "Pneumatic Jig": [
+        "SWG",
+        "SWF",
+        "SMD",
+        "SWB",
+        "SWE",
+        "SWA",
+        "SWA-1",
+        "SOA",
+        "MCA",
+        "MCB",
+        "MCC"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 2"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Side Member LH": {
+      "Hydraulic Punching Machine": [
+        "Enerpac"
+      ],
+      "CO2": [
+        "CO2 # 4"
+      ],
+      "Hoist": [
+        "C 11",
+        "C 12",
+        "C 13"
+      ],
+      "Piercing Machine": [
+        "SWA-1",
+        "SWB LH"
+      ],
+      "PLC Jig": [
+        "SMB",
+        "SMC-1",
+        "SMC"
+      ],
+      "Pneumatic Jig": [
+        "SWB",
+        "SWB-1",
+        "SWE",
+        "SWG",
+        "SWA",
+        "SRA",
+        "SWD",
+        "SOA"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 1"
+      ],
+      "Spot Welding System": [
+        "PSWS 81",
+        "PSWS 82",
+        "PSWS 83",
+        "PSWS 84",
+        "PSWS 85",
+        "PSWS 86",
+        "PSWS 87",
+        "PSWS 88",
+        "PSWS 89",
+        "PSWS 90",
+        "PSWS 91",
+        "PSWS 92",
+        "PSWS 93",
+        "PSWS 94",
+        "PSWS 95",
+        "PSWS 96",
+        "PSWS 97",
+        "PSWS 97A",
+        "PSWS 98",
+        "PSWS 99",
+        "PSWS 100",
+        "PSWS 101"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Under body": {
+      "Auto Stud": [
+        "UDB-1"
+      ],
+      "CO2": [
+        "CO2 # 1",
+        "CO2 # 2",
+        "CO2 # 3"
+      ],
+      "Hoist": [
+        "C 1",
+        "C 2",
+        "C 3",
+        "C 4",
+        "C 5",
+        "C 6",
+        "C 7",
+        "C 8",
+        "C 9",
+        "C 10"
+      ],
+      "Manual Jig": [
+        "URB",
+        "URC",
+        "UUL",
+        "UUJ",
+        "UUE",
+        "UUA-1",
+        "URE",
+        "UFC-1",
+        "UBA-1"
+      ],
+      "Number Punching Machine": [
+        "UFD"
+      ],
+      "Piercing Machine": [
+        "UMD RH",
+        "UMD LH",
+        "UUK",
+        "UUK-1"
+      ],
+      "PLC Jig": [
+        "UEA",
+        "UBA"
+      ],
+      "Pneumatic Jig": [
+        "UMF RH",
+        "UME RH",
+        "UMC RH",
+        "UAC RH",
+        "UMA RH",
+        "URA",
+        "URD RH/ LH",
+        "UMF LH",
+        "UME LH",
+        "UMC LH",
+        "UMA LH",
+        "UAC LH",
+        "UAB LH",
+        "UAD",
+        "UDB",
+        "STA R/L",
+        "STA LH",
+        "SFA RH",
+        "SOA RH",
+        "SOA LH",
+        "UUH",
+        "UUI",
+        "UUD LH",
+        "UUC LH",
+        "UUD RH",
+        "UUC RH",
+        "UUB",
+        "UUG",
+        "UUA",
+        "UAA RH",
+        "UAA LH",
+        "UEA-1",
+        "UFJ R/L",
+        "UFB",
+        "UFA",
+        "UFA-1"
+      ],
+      "Spot Welding System": [
+        "PSWS 01",
+        "PSWS 02",
+        "PSWS 03",
+        "PSWS 04",
+        "PSWS 05",
+        "PSWS 06",
+        "PSWS 07",
+        "PSWS 08",
+        "PSWS 09",
+        "PSWS 10",
+        "PSWS 11",
+        "PSWS 12",
+        "PSWS 13",
+        "PSWS 14",
+        "PSWS 15",
+        "PSWS 16",
+        "PSWS 17",
+        "PSWS 18",
+        "PSWS 19",
+        "PSWS 20",
+        "PSWS 21",
+        "PSWS 22",
+        "PSWS 23",
+        "PSWS 24",
+        "PSWS 25",
+        "PSWS 26",
+        "PSWS 27",
+        "PSWS 28",
+        "PSWS 29",
+        "PSWS 30",
+        "PSWS 31",
+        "PSWS 32",
+        "PSWS 33",
+        "PSWS 34",
+        "PSWS 35",
+        "PSWS 36",
+        "PSWS 37",
+        "PSWS 38",
+        "PSWS 39",
+        "PSWS 40",
+        "PSWS 41",
+        "PSWS 42",
+        "PSWS 43",
+        "PSWS 44",
+        "PSWS 45",
+        "PSWS 46",
+        "PSWS 47",
+        "PSWS 48",
+        "PSWS 49",
+        "PSWS 50",
+        "PSWS 51",
+        "PSWS 52",
+        "PSWS 53",
+        "PSWS 54",
+        "PSWS 55",
+        "PSWS 56",
+        "PSWS 57",
+        "PSWS 58",
+        "PSWS 59",
+        "PSWS 60",
+        "PSWS 61",
+        "PSWS 62",
+        "PSWS 63",
+        "PSWS 64",
+        "PSWS 65"
+      ],
+      "SSW": [
+        "Nut Feeder 1",
+        "Nut Feeder 2"
+      ],
+      "Stud Welder": [
+        "UMD-1 LH",
+        "UUA-I"
+      ],
+      "Other": [
+        "Other"
+      ]
+    }
+  },
+  "IMV": {
+    "Deck": {
+      "CO2": [
+        "CO2 # 3",
+        "CO2 # 4"
+      ],
+      "Hoist": [
+        "H 6",
+        "H 7",
+        "H 8"
+      ],
+      "Manual Jig": [
+        "DFB"
+      ],
+      "PLC Jig": [
+        "DSA RH",
+        "DSB RH",
+        "DSC RH",
+        "DSC LH"
+      ],
+      "Pneumatic Jig": [
+        "DSA LH",
+        "DSB LH",
+        "DFC",
+        "DAA",
+        "DAA-1",
+        "DAA-2"
+      ],
+      "Spot Welding System": [
+        "PSWS 1",
+        "PSWS 2",
+        "PSWS 3",
+        "PSWS 4",
+        "PSWS 5",
+        "PSWS 6",
+        "PSWS 7",
+        "PSWS 8",
+        "PSWS 9",
+        "PSWS 10",
+        "PSWS 11",
+        "PSWS 12",
+        "PSWS 13",
+        "PSWS 14",
+        "PSWS 15",
+        "PSWS 16",
+        "PSWS 17",
+        "PSWS 18",
+        "PSWS 19",
+        "PSWS 20",
+        "PSWS 21",
+        "PSWS 22",
+        "PSWS 23",
+        "PSWS 24",
+        "PSWS 25",
+        "PSWS 26"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 1"
+      ],
+      "Spotter": [
+        "Spoter 1",
+        "Spoter 2",
+        "Spoter 3"
+      ],
+      "Scissor Lifter": [
+        "Scissor Lifter 3"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Engine and Main Body": {
+      "Hoist": [
+        "H 13",
+        "H 14",
+        "H 15",
+        "H 16"
+      ],
+      "Manual Jig": [
+        "UDA",
+        "UAD RH",
+        "UAD LH",
+        "MRA",
+        "MRC",
+        "MRD",
+        "MCA"
+      ],
+      "Pneumatic Jig": [
+        "UAE RH",
+        "UAE LH",
+        "UAB RH",
+        "UAB LH"
+      ],
+      "Stud Welder": [
+        "NSWS 1"
+      ],
+      "Spot Welding System": [
+        "PSWS 61",
+        "PSWS 62",
+        "PSWS 63",
+        "PSWS 64",
+        "PSWS 65",
+        "PSWS 66",
+        "PSWS 67",
+        "PSWS 68",
+        "PSWS 69",
+        "PSWS 70",
+        "PSWS 71",
+        "PSWS 72",
+        "PSWS 73",
+        "PSWS 74",
+        "PSWS 75",
+        "PSWS 76",
+        "PSWS 77",
+        "PSWS 78",
+        "PSWS 79",
+        "PSWS 80",
+        "PSWS 81",
+        "PSWS 82",
+        "PSWS 83",
+        "PSWS 84",
+        "PSWS 85",
+        "PSWS 86",
+        "PSWS 87",
+        "PSWS 88",
+        "PSWS 89",
+        "PSWS 90",
+        "PSWS 91",
+        "PSWS 92",
+        "PSWS 93",
+        "PSWS 94",
+        "PSWS 95",
+        "PSWS 96",
+        "PSWS 97",
+        "PSWS 98",
+        "PSWS 99",
+        "PSWS 100",
+        "PSWS 101"
+      ],
+      "M-Tack": [
+        "M Tack"
+      ],
+      "Scissor Lifter": [
+        "Scissor Lifter 1",
+        "Scissor Lifter 2",
+        "Scissor Lifter 3"
+      ],
+      "SSW": [
+        "SSW 1",
+        "SSW 2",
+        "SSW 3"
+      ],
+      "Vacuum Cleaner": [
+        "Vacuum Cleaner 1",
+        "Vacuum Cleaner 2"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Floor": {
+      "CO2": [
+        "CO2 # 1",
+        "CO2 # 2"
+      ],
+      "Hoist": [
+        "H 1",
+        "H 2",
+        "H 3",
+        "H 4",
+        "H 5"
+      ],
+      "Manual Jig": [
+        "UAA RH",
+        "UAA LH",
+        "MBA",
+        "MBC",
+        "MBCD",
+        "UFJ R/L",
+        "UFA-1",
+        "UFG",
+        "UFE R/L",
+        "UFH R/L",
+        "UUA",
+        "UUG",
+        "UUA-B"
+      ],
+      "Piercing Machine": [
+        "UFC"
+      ],
+      "Pneumatic Jig": [
+        "URA",
+        "UEA",
+        "UBA",
+        "UFB",
+        "UFA",
+        "UUB",
+        "UUM-SUV",
+        "UUL-SUV",
+        "UUE",
+        "UUB-SUV",
+        "UUD-SUV",
+        "UUE-SUV",
+        "UUA-SUV",
+        "UUA-1 SUV"
+      ],
+      "Spot Welding System": [
+        "PSWS 101",
+        "PSWS 102",
+        "PSWS 103",
+        "PSWS 104",
+        "PSWS 105",
+        "PSWS 106",
+        "PSWS 107",
+        "PSWS 108",
+        "PSWS 109",
+        "PSWS 110",
+        "PSWS 111",
+        "PSWS 112",
+        "PSWS 113",
+        "PSWS 114",
+        "PSWS 115",
+        "PSWS 116",
+        "PSWS 117",
+        "PSWS 118",
+        "PSWS 119",
+        "PSWS 120",
+        "PSWS 121",
+        "PSWS 122",
+        "PSWS 123",
+        "PSWS 124",
+        "PSWS 125",
+        "PSWS 126",
+        "PSWS 127",
+        "PSWS 128",
+        "PSWS 129",
+        "PSWS 130",
+        "PSWS 131",
+        "PSWS 132",
+        "PSWS 133"
+      ],
+      "Stud Welder": [
+        "UFC"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Side Member": {
+      "Hoist": [
+        "H 9",
+        "H 10",
+        "H 11",
+        "H 12"
+      ],
+      "Manual Jig": [
+        "SCA/ SFA",
+        "SCA LH"
+      ],
+      "PLC Jig": [
+        "SOA RH",
+        "SMA RH",
+        "SOA LH",
+        "SMA LH"
+      ],
+      "Pneumatic Jig": [
+        "SOB",
+        "SOC RH",
+        "SOB LH",
+        "SOC LH"
+      ],
+      "Spot Welding System": [
+        "PSWS 27",
+        "PSWS 28",
+        "PSWS 29",
+        "PSWS 30",
+        "PSWS 31",
+        "PSWS 32",
+        "PSWS 33",
+        "PSWS 34",
+        "PSWS 35",
+        "PSWS 36",
+        "PSWS 37",
+        "PSWS 38",
+        "PSWS 39",
+        "PSWS 40",
+        "PSWS 41",
+        "PSWS 42",
+        "PSWS 43",
+        "PSWS 44",
+        "PSWS 45",
+        "PSWS 46",
+        "PSWS 47",
+        "PSWS 48",
+        "PSWS 49",
+        "PSWS 50",
+        "PSWS 51",
+        "PSWS 52",
+        "PSWS 53",
+        "PSWS 54",
+        "PSWS 55",
+        "PSWS 56",
+        "PSWS 57",
+        "PSWS 58",
+        "PSWS 59",
+        "PSWS 60",
+        "PSWS 60A",
+        "PSWS 60B"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump 1"
+      ],
+      "Hydraulic Punching Machine": [
+        "UUC"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Wheel House": {
+      "Manual Jig": [
+        "SWE R/L",
+        "SWC LH",
+        "SWA",
+        "SWB LH",
+        "SWB RH",
+        "SWA RH",
+        "SWA -SUV",
+        "STA LH",
+        "STA RH"
+      ],
+      "Pneumatic Jig": [
+        "SRD R/L",
+        "SRA RH",
+        "SRA LH",
+        "SRC R/L"
+      ],
+      "Spot Welding System": [
+        "PSWS 134",
+        "PSWS 135",
+        "PSWS 136",
+        "PSWS 137",
+        "PSWS 138",
+        "PSWS 139",
+        "PSWS 140",
+        "PSWS 141",
+        "PSWS 142",
+        "PSWS 143",
+        "PSWS 144",
+        "PSWS 145",
+        "PSWS 146",
+        "PSWS 147",
+        "PSWS 148",
+        "PSWS 149"
+      ],
+      "Other": [
+        "Other"
+      ]
+    }
+  },
+  "Yaris": {
+    "Main Body": {
+      "M-Tack": [
+        "M Tack"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Door": {
+      "CO2": [
+        "CO2 10"
+      ],
+      "PLC Jig": [
+        "WRE LH",
+        "WRD LH",
+        "WLG LH",
+        "WFE LH",
+        "WFE RH",
+        "WRE RH",
+        "WRD RH",
+        "WLH"
+      ],
+      "Pneumatic Jig": [
+        "WFD LH",
+        "WRG LH",
+        "WHF",
+        "WEA RH",
+        "WEA LH",
+        "WLG",
+        "WLF",
+        "WLE",
+        "WLI"
+      ],
+      "Roller Hemming Robot": [
+        "DR (2-1)",
+        "DR (3-1)",
+        "DR (3-2)",
+        "DR (3-3)",
+        "DR (4-1)",
+        "HD (2-1)",
+        "HD (3-1)",
+        "HD (3-2)",
+        "HD (3-3)",
+        "HD (4-1)",
+        "LG (2-1)",
+        "LG (3-1)",
+        "LG (3-2)",
+        "LG (3-3)",
+        "LG (4-1)"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 8"
+      ],
+      "Spot Welding System": [
+        "PSWS V01",
+        "PSWS V02",
+        "PSWS V03",
+        "PSWS V04",
+        "PSWS V05",
+        "PSWS V06",
+        "PSWS V07",
+        "PSWS V08",
+        "PSWS V9",
+        "PSWS V10",
+        "PSWS V11",
+        "PSWS V12",
+        "PSWS V13",
+        "PSWS V14",
+        "PSWS V15",
+        "PSWS V16",
+        "PSWS V17",
+        "PSWS V18",
+        "PSWS V19",
+        "PSWS V20",
+        "PSWS V21",
+        "PSWS V22",
+        "PSWS V82",
+        "PSWS V83",
+        "PSWS V84",
+        "PSWS V85",
+        "PSWS V86",
+        "PSWS V87",
+        "PSWS V88",
+        "PSWS V89",
+        "PSWS V90"
+      ],
+      "SSW": [
+        "SSW 1"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Side Member RH": {
+      "Spot Welding System": [
+        "PSWS V65",
+        "PSWS V66",
+        "PSWS V67",
+        "PSWS V68",
+        "PSWS V69",
+        "PSWS V70",
+        "PSWS V71",
+        "PSWS V54",
+        "PSWS V55",
+        "PSWS V56",
+        "PSWS V57",
+        "PSWS V58",
+        "PSWS V59",
+        "PSWS V60"
+      ],
+      "CO2": [
+        "PSWS V62"
+      ],
+      "Hoist": [
+        "PSWS V63"
+      ],
+      "Pneumatic Jig": [
+        "STA",
+        "SCA",
+        "SWB",
+        "SWA",
+        "SRB",
+        "SRA",
+        "SOA"
+      ],
+      "PLC Jig": [
+        "SMB",
+        "SMA"
+      ],
+      "Sealer Pump": [
+        "Sealer Pump # 6"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Side Member LH": {
+      "Sealer Pump": [
+        "PSWS V72"
+      ],
+      "Spot Welding System": [
+        "PSWS V53",
+        "PSWS V54",
+        "PSWS V55",
+        "PSWS V56",
+        "PSWS V57",
+        "PSWS V58",
+        "PSWS V59",
+        "PSWS V60",
+        "PSWS V61",
+        "PSWS V62",
+        "PSWS V63"
+      ],
+      "CO2": [
+        "PSWS V61"
+      ],
+      "Pneumatic Jig": [
+        "SWC LH"
+      ],
+      "Other": [
+        "Other"
+      ]
+    },
+    "Under body": {
+      "Auto Stud": [
+        "UDB-1"
+      ],
+      "Hoist": [
+        "V 1",
+        "V 2",
+        "V 3",
+        "V 4",
+        "V 5",
+        "V 6",
+        "V 7",
+        "V 8"
+      ],
+      "Manual Jig": [
+        "UFC-1",
+        "UFH R/L",
+        "UFA-1",
+        "UUA-1",
+        "UEA-1",
+        "URE",
+        "MRA"
+      ],
+      "Number Punching Machine": [
+        "UFD"
+      ],
+      "PLC Jig": [
+        "UEA"
+      ],
+      "Pneumatic Jig": [
+        "UDB",
+        "UAD LH",
+        "UAB LH",
+        "UMD LH",
+        "UMA LH",
+        "UMA -1 LH",
+        "UMA-1 RH",
+        "UMA RH",
+        "UMD",
+        "UAB RH",
+        "UAD RH",
+        "SRA LH",
+        "SRA RH",
+        "SRB LH",
+        "SRB RH",
+        "SWC LH",
+        "UFB RH",
+        "UFB LH",
+        "UFA",
+        "UFJ R/L",
+        "UUB",
+        "UUA",
+        "UUF LH",
+        "UUG LH",
+        "UUF RH",
+        "UUG RH",
+        "UUC"
+      ],
+      "Spot Welding System": [
+        "PSWS 01",
+        "PSWS 02",
+        "PSWS 03",
+        "PSWS 04",
+        "PSWS 05",
+        "PSWS 06",
+        "PSWS 07",
+        "PSWS 08",
+        "PSWS 09",
+        "PSWS 10",
+        "PSWS 11",
+        "PSWS 12",
+        "PSWS 13",
+        "PSWS 14",
+        "PSWS 15",
+        "PSWS 16",
+        "PSWS 17",
+        "PSWS 18",
+        "PSWS 19",
+        "PSWS 20",
+        "PSWS 21",
+        "PSWS 22",
+        "PSWS 23",
+        "PSWS 24",
+        "PSWS 25",
+        "PSWS 26",
+        "PSWS 27",
+        "PSWS 28",
+        "PSWS 29",
+        "PSWS 30",
+        "PSWS 31",
+        "PSWS 32",
+        "PSWS 33",
+        "PSWS 34",
+        "PSWS 35",
+        "PSWS 36",
+        "PSWS 37",
+        "PSWS 38",
+        "PSWS 39",
+        "PSWS 40",
+        "PSWS 41",
+        "PSWS 42",
+        "PSWS 43",
+        "PSWS 44",
+        "PSWS 45",
+        "PSWS 46",
+        "PSWS 47"
+      ],
+      "SSW": [
+        "UDD",
+        "UME LH",
+        "UFG"
+      ],
+      "Stud Welder": [
+        "UFA-1",
+        "UUA-1"
+      ],
+      "Other": [
+        "Other"
+      ]
+    }
+  }
+}

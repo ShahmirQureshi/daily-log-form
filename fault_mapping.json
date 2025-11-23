@@ -1,0 +1,114 @@
+{
+  "Spot Welding System": [
+    "Hand Switch",
+    "Shank",
+    "Adapter",
+    "Arm Holder",
+    "Kickless Cable",
+    "Additional Cable",
+    "Shunt",
+    "Bolt Assembly",
+    "Shunt Terminal",
+    "TC Card",
+    "Timer Contactor",
+    "Water Pipe",
+    "Alignment Tool",
+    "H Terminal",
+    "Power Cable",
+    "Control Cable",
+    "Solenoid",
+    "Transformer",
+    "Others"
+  ],
+  "PLC Jig": [
+    "Reed Switch",
+    "Proximity Switch",
+    "Solenoid",
+    "Push Button",
+    "Elbow",
+    "Socket",
+    "CPU",
+    "I/O Module",
+    "Cable",
+    "Others"
+  ],
+  "Pneumatic Jig": [
+    "Reed Switch",
+    "Proximity Switch",
+    "Solenoid",
+    "Push Button",
+    "Elbow",
+    "Socket",
+    "CPU",
+    "I/O Module",
+    "Cable",
+    "Others"
+  ],
+  "Stud Welder": [
+    "Stud Gun",
+    "Collet",
+    "Stop Pin",
+    "PC Card",
+    "Earth Cable",
+    "Others"
+  ],
+  "CO2": [
+    "Torch",
+    "Torch Assembly",
+    "Remote Control",
+    "Welding Machine",
+    "Others"
+  ],
+  "Hoist": [
+    "Pendant",
+    "Power Cable",
+    "Busbar",
+    "Hoist Unit",
+    "Others"
+  ],
+  "Sealer Pump": [
+    "Gun",
+    "Nozzle",
+    "Pipe",
+    "Sealer Pump Unit",
+    "Others"
+  ],
+  "Hemming Machine": [
+    "Belt",
+    "Reed Switch",
+    "Proximity Switch",
+    "Solenoid",
+    "Push Button",
+    "CPU",
+    "I/O Module",
+    "Cable",
+    "Pulley",
+    "Feeding Mechanism",
+    "Light Curtain",
+    "Others"
+  ],
+  "M-Tack": [
+    "Reed Switch",
+    "Proximity Switch",
+    "Solenoid",
+    "Push Button",
+    "Elbow",
+    "Light Curtain",
+    "CPU",
+    "I/O Module",
+    "Cable",
+    "GR Problem",
+    "Skidder",
+    "Safety PLC",
+    "Communication Module",
+    "Others"
+  ],
+  "Others": [
+    "PLC",
+    "Machine",
+    "Electrical",
+    "Pneumatic",
+    "Hydraulic",
+    "Others"
+  ]
+}

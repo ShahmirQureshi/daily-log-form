@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maintena</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/android-chrome-512x512.png">
+
+  <!-- Choices.js for searchable dropdown -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/choices.js/public/assets/styles/choices.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>Maintena</h1>
+  </header>
+  <main>
+    <form id="logForm">
+      <div class="form-columns">
+        <div class="column">
+          <div class="field">
+            <label>Date:</label>
+            <input type="date" id="dateInput" required>
+          </div>
+          <div class="field">
+            <label>Time:</label>
+            <input type="time" id="timeInput" required>
+          </div>
+          <div class="field">
+            <label>Line:</label>
+            <select id="lineSelect"></select>
+          </div>
+          <div class="field">
+            <label>Area:</label>
+            <select id="areaSelect"></select>
+          </div>
+          <div class="field">
+            <label>Equipment Type:</label>
+            <select id="typeSelect"></select>
+          </div>
+          <div class="field">
+            <label>Equipment:</label>
+            <select id="equipSelect"></select>
+          </div>
+          <div class="field">
+            <label>Fault:</label>
+            <input type="text" id="faultInput" required>
+          </div>
+          <div class="field">
+            <label>Fault Type:</label>
+            <select id="faultTypeSelect"></select>
+          </div>
+          <div class="field">
+            <label>Action:</label>
+            <input type="text" id="actionInput" required>
+          </div>
+          <div class="field">
+            <label>Action Type:</label>
+            <select id="actionTypeSelect">
+              <option value="Reset/Adjustment">Reset/Adjustment</option>
+              <option value="Repair/Replacement">Repair/Replacement</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>Job Type:</label>
+            <select id="jobTypeSelect">
+              <option value="Breakdown Maint">Breakdown Maint</option>
+              <option value="Preventive Maint">Preventive Maint</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>LOTO Applied?</label>
+            <select id="lotoSelect">
+              <option value="Yes">Yes</option>
+              <option value="No" selected>No</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>EST (mins):</label>
+            <input type="number" id="estInput" required>
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <button type="button" id="saveBtn">Save Entry</button>
+        <button type="button" id="previewBtn">Preview</button>
+        <button type="button" id="exportBtn">Export CSV</button>
+        <button type="button" id="clearBtn">Clear Entries</button>
+      </div>
+    </form>
+
+    <div id="status">Ready</div>
+
+    <div id="previewModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button id="closePreview" class="close-btn">Close</button>
+        </div>
+        <div class="table-container">
+          <table id="previewTable"></table>
+        </div>
+      </div>
+    </div>
+    <div id="clearConfirmPopup" class="modal">
+    <div class="modal-content" style="max-width:300px; text-align:center;">
+      <p>Are you sure you want to clear all entries?</p>
+      <div class="buttons" style="justify-content:center; gap:10px;">
+        <button id="confirmClear">OK</button>
+        <button id="cancelClear">Cancel</button>
+      </div>
+    </div>
+  </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
